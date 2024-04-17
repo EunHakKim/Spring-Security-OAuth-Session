@@ -19,6 +19,7 @@ bin/
 
 ### IntelliJ IDEA ###
 application.properties
+/src/main/java/com/example/oauthsession/oauth2/SocialClientRegistration.java
 .idea
 *.iws
 *.iml
