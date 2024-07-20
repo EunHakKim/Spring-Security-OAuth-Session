@@ -1,3 +1,3 @@
-# Spring Security OAuth Session
+# Spring Security OAuth2 Session
 
-Spring Security OAuth Session 관련 실습
+Spring Security OAuth2 Session 관련 실습
